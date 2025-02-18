@@ -1,0 +1,7 @@
+Hello dude .Today i will introduce about me.
+My Name is Tam. And I am 19 year old 
+I am currently a third year student at the University of Posts and Telecommunications.
+This is a python program to run a txt file of data structure subject.
+I hope I can get an A+ in this course.
+And finally i wish you good health and happiness.
+Thank you for reading. See you later
