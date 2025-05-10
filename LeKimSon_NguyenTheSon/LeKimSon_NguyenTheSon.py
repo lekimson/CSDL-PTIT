@@ -15,7 +15,7 @@ import logging  # Thư viện để ghi log hoạt động của ứng dụng
 
 # Cấu hình logging để ghi lại các sự kiện (nén, giải nén, lỗi, v.v.) vào file 'huffman_app.log'
 logging.basicConfig(filename='huffman_app.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-# ===== Đa ngôn ngữ =====
+# Đa ngôn ngữ
 LANGUAGES = {
     'vi': {
         'export_pdf': "Xuất Báo cáo PDF",
